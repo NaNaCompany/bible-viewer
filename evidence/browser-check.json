@@ -1,0 +1,37 @@
+{
+  "status": "navigation-and-layout-passed",
+  "bookFilter": "Korean book search opened matching John chapter links",
+  "chapterNavigation": "John 3 from home",
+  "versionSwitch": "KRV to WEB preserved John 3; WEB to BSB preserved #v16",
+  "koreanOrder": [
+    "krv",
+    "web",
+    "bsb",
+    "asv",
+    "rv1909",
+    "lsg1910"
+  ],
+  "englishOrder": [
+    "web",
+    "bsb",
+    "asv",
+    "krv",
+    "rv1909",
+    "lsg1910"
+  ],
+  "englishDefault": "web",
+  "desktop": {
+    "clientWidth": 1265,
+    "scrollWidth": 1265
+  },
+  "mobile": {
+    "requestedViewportWidth": 375,
+    "clientWidth": 360,
+    "scrollWidth": 360
+  },
+  "verseAnchorSelected": "16",
+  "localExternalScripts": 0,
+  "clipboardBoundary": "copy success UI observed; OS clipboard readback unavailable through Browser Use virtual clipboard",
+  "nativeShareBoundary": "share promise remained pending in IAB; no external destination selected; page reloaded",
+  "platformMocks": "11 behaviors passed in runtime-check.json"
+}

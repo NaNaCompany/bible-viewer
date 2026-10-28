@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "behavior_cases": 11,
+  "verse_and_canonical_url_copy": true,
+  "native_share_payload": true,
+  "share_fallback": true,
+  "share_cancel": true,
+  "manual_copy_fallback": true,
+  "same_chapter_version_switch": true,
+  "selected_verse_share": true,
+  "missing_verse_fallback": true,
+  "book_chapter_navigation": true,
+  "font_limits_and_theme": true
+}

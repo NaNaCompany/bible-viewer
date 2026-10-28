@@ -1,0 +1,16 @@
+{
+  "status": "built",
+  "versions": 6,
+  "ui_languages": [
+    "ko",
+    "en"
+  ],
+  "chapter_pages": 14268,
+  "version_pages": 12,
+  "html_pages": 14286,
+  "sitemap_pages": {
+    "ko": 7143,
+    "en": 7143
+  },
+  "html_bytes": 390851991
+}

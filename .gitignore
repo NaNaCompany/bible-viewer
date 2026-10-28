@@ -1,0 +1,14 @@
+__pycache__/
+node_modules/
+evidence/browser-*.png
+evidence/release.json
+evidence/live-check.json
+data/source/*_usfx.zip
+data/source/kor1910*
+data/source/kor_usfx.zip
+data/source/krv-metadata.html
+data/source/scrollmapper-tree.json
+data/source/krv.json
+data/source/KorRV*
+data/source/SpaRV*
+data/source/LICENSE

@@ -1,0 +1,9 @@
+{
+  "slug": "bible-viewer",
+  "name": "성경 뷰어",
+  "name_en": "Bible Reader",
+  "origin": "https://nanalab.kr/bible-viewer",
+  "languages": ["ko", "en"],
+  "description": "6개 공개 판본의 성경을 권·장별로 읽고 절과 링크를 복사·공유하는 성경 뷰어.",
+  "version_ids": ["krv", "web", "bsb", "asv", "rv1909", "lsg1910"]
+}

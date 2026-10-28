@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "html_pages": 14286,
+  "chapter_pages": 14268,
+  "verse_renderings": 373364,
+  "source_hashes_verified": 6,
+  "all_verse_texts_match": true,
+  "all_verse_copy_share_buttons": true,
+  "language_order_verified": true,
+  "canonical_hreflang_links_verified": true,
+  "publisher_integrations_per_html": 4,
+  "gtm_noscript_per_html": true,
+  "html_bytes": 390680517,
+  "broken_local_links": 0
+}

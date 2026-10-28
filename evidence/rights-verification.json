@@ -1,0 +1,14 @@
+{
+  "checked_date": "2026-10-28",
+  "scope": "Scripture text and digital redistribution notices; no audio, artwork, commentary, or newly copyrighted revisions",
+  "sources": [
+    {"id":"krv","authority":"Korean Bible Society","url":"https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=5","method":"official page read through web tool","result":"economic copyright expired; preserve attribution and integrity","digital_source":"https://github.com/thiagobodruk/bible/blob/master/json/ko_krv.json","digital_license":"MIT notice retained in source and site"},
+    {"id":"web","authority":"eBible.org","url":"https://ebible.org/engwebp/copyright.htm","result":"Public Domain text; edition-name trademark condition retained"},
+    {"id":"bsb","authority":"Berean Bible","url":"https://berean.bible/terms.htm","result":"2023-04-30 public-domain dedication; text unaltered; attribution retained"},
+    {"id":"asv","authority":"eBible.org","url":"https://ebible.org/details.php?id=eng-asv","result":"Public Domain distribution; bundled rights notice retained"},
+    {"id":"rv1909","authority":"United Bible Societies / eBible.org","url":"https://open.bible/bibles/reina-valera-1909","result":"Public Domain 1909 edition; bundled rights notice retained"},
+    {"id":"lsg1910","authority":"eBible.org","url":"https://ebible.org/details.php?id=fraLSG","result":"Public Domain 1910 edition; bundled rights notice retained"}
+  ],
+  "modifications":"Structured conversion and HTML escaping only. No translation, paraphrasing, or supplementation. Source numbering and inline placeholders retained. Explicitly bracketed UI annotations used for blank source verses.",
+  "excluded":"eBible Korean 1910-labelled export and Scrollmapper Korean export inspected during research were not used in the app. The former is unnecessary for the selected launch scope; the latter conflates or leaves empty several source verse records."
+}
